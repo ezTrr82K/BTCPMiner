@@ -1,0 +1,2 @@
+# BTCPMiner
+Bitcoin Private Miner
