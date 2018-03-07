@@ -10,6 +10,7 @@ If no CUDA GPUs are detected, BTCPMiner falls back to CPU mining. This is howeve
 - Fast mining speeds on BTCP, competitive speeds on all Equihash coins
 - Active development
 - Low and accurate fees
+- Respects your privacy: No calling home, no sending statistics, no checking for updates
 
 ## Supported Pools
 All major mining pools are supported. We recommend beginners mine with btcprivate.pro as it is easiest to get running.
