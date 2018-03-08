@@ -2,7 +2,7 @@ REM -- EDIT YOUR POOL SERVER BELOW THIS LINE
 set server=us.btcprivate.pro:2827
 
 REM -- EDIT YOUR USER NAME BELOW THIS LINE
-set user=b1M2cpuqEELVHny27pAQ6Tvx1YLM6tLrJYc.miner
+set user=b16npauaPbcUQvbaLxcQHf1jd1cpd1cRcbK.miner
 
 setx GPU_FORCE_64BIT_PTR 1
 setx GPU_MAX_HEAP_SIZE 100
